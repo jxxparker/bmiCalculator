@@ -3,3 +3,5 @@
 This application is a BMI Calculator that calculates your BMI.
 You put in your weight and KG and will tell you, your personal BMI.
 This app is built with iOS Swift with MVC design.
+
+.
